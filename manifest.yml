@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: code1
-  host: codeslord
+  name: HelloWorld
+  host: tc-codeslord-01hw
   disk_quota: 1024M
